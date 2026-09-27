@@ -1,0 +1,7 @@
+# Documentation-only allowlist; review every new tracked file.
+*
+!/.gitignore
+!/README.md
+!/ARCHITECTURE.md
+!/EXAMPLE.md
+!/PRIVACY.md
